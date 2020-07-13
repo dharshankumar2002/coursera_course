@@ -6,6 +6,4 @@ This is a repository for my coursera online course
 - [Module 2 Solution](https://dharshankumar2002.github.io/coursera_course/index.html) <br>
 
 <br><br>
-HTML, CSS, JavaScript for Web Developers
-Johns Hopkins University
-Coursera
+HTML, CSS, JavaScript for Web Developers - Johns Hopkins University - Coursera
